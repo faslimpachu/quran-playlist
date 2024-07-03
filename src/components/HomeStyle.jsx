@@ -9,6 +9,9 @@ export const Container = styled.div`
   align-items: center;
   padding: 20px;
   background-color: #f5f5f5;
+  @media (max-width: 425px) {
+           padding: 0px;
+  }
 
 `;
 
