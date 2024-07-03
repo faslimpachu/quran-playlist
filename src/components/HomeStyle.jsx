@@ -60,7 +60,7 @@ export const CardDiv = styled.div`
 
 `
 export const SuraContainer = styled.div`
-  width: 80%;
+  width: 100%;
   background: white;
   margin-bottom: 20px;
   padding: 20px;
@@ -110,6 +110,9 @@ export const IframeContainer = styled.div`
   }
   @media (max-width: 425px){
     padding-bottom: 50%;
+  }
+  @media (max-width: 377px){
+    padding-bottom: 60%;
   }
 
 `;
