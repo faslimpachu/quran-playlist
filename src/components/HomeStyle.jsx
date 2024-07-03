@@ -1,4 +1,4 @@
-// HomeStyle.js
+
 
 import styled from "styled-components";
 

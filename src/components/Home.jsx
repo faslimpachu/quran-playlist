@@ -1,10 +1,9 @@
-// Home.js
 
 import React from 'react';
 import { Container, IframeContainer, SessionList, SuraContainer, SuraTitle, Title, VideoTitle, VideoDescription, CardDiv } from './HomeStyle';
 
 const Home = () => {
-  // Define an array of video objects
+  
   const playlist = [
     {
       url: "https://www.youtube.com/embed/Nnd641CP1k8?si=GC995je9w5XxyXa5",
